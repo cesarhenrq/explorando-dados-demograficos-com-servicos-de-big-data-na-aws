@@ -1,4 +1,4 @@
 select city, population
   from "population"."population"
-  order by
+  order by population
   limit 10;

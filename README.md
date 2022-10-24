@@ -1,5 +1,5 @@
-# dio-live-athena
-Repositório para a live do dia 01/10/2021 sobre o Amazon Athena
+# Explorando Dados Demográficos com Serviços de Big Data na AWS
+Repositório para Desafio da DIO
 
 ### Serviços utilizados nessa atividade prática
  - Amazon S3
